@@ -14,8 +14,9 @@ from nltk.tokenize import RegexpTokenizer
 def recommend(variables):
     df = pd.read_csv("Dataset.csv")
     
-    title = variables[0]
-    genre = variables[1]
+    title = variables[0].lower()
+    genre = variables[1].lower()
+    df['title'] = df['title'].apply(lambda x: x.lower())
     
     #Matching the genre with the dataset and reset the index
     data = df.loc[df['genre'] == genre]
