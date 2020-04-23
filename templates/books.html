@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+<style>
+    h1{
+        background-color: rgb(8, 58, 104);
+        color:rgb(255,255,255);
+        font-weight: 400;
+        padding-left: 10px;
+        margin: 20px;
+    }
+    .book-container{
+        display: block;
+        font-size: 26px;
+        padding: 25px;
+        margin: 20px;
+        text-align: center;
+        background-color: rgb(33, 137, 179);
+        color: rgb(255,255,255);
+    }
+</style>
+    <h1>Here are the books that you should read!!!</h1>
+    {% for book in books %}
+    <div class = "book-container">
+        {{book}}
+    </div>
+        
+    {% endfor %}
+{% endblock%}

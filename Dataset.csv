@@ -1,0 +1,802 @@
+title,author,genre
+
+Pride and Prejudice,Jane Austen,classics
+
+To Kill a Mockingbird,Harper Lee,classics
+
+The Great Gatsby,F. Scott Fitzgerald,classics
+
+Jane Eyre,Charlotte Brontë,classics
+
+1984,George Orwell,classics
+
+Wuthering Heights,Emily Brontë,classics
+
+Animal Farm,George Orwell,classics
+
+The Catcher in the Rye,J.D. Salinger,classics
+
+Little Women,Louisa May Alcott,classics
+
+Frankenstein,Mary Wollstonecraft Shelley,classics
+
+Lord of the Flies,William Golding,classics
+
+Romeo and Juliet,William Shakespeare,classics
+
+Of Mice and Men,John Steinbeck,classics
+
+The Picture of Dorian Gray,Oscar Wilde,classics
+
+Sense and Sensibility,Jane Austen,classics
+
+Emma,Jane Austen,classics
+
+Fahrenheit 451,Ray Bradbury,classics
+
+The Adventures of Huckleberry Finn,Mark Twain,classics
+
+A Tale of Two Cities,Charles Dickens,classics
+
+Dracula,Bram Stoker,classics
+
+Great Expectations,Charles Dickens,classics
+
+The Scarlet Letter,Nathaniel Hawthorne,classics
+
+Persuasion,Jane Austen,classics
+
+The Odyssey,Homer,classics
+
+The Count of Monte Cristo,Alexandre Dumas,classics
+
+Brave New World,Aldous Huxley,classics
+
+Anna Karenina,Leo Tolstoy,classics
+
+Hamlet,William Shakespeare,classics
+
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,classics
+
+A Christmas Carol,Charles Dickens,classics
+
+Macbeth,William Shakespeare,classics
+
+The Secret Garden,Frances Hodgson Burnett,classics
+
+Crime and Punishment,Fyodor Dostoyevsky,classics
+
+Les Misérables,Victor Hugo,classics
+
+The Old Man and the Sea,Ernest Hemingway,classics
+
+Northanger Abbey,Jane Austen,classics
+
+The Adventures of Tom Sawyer,Mark Twain,classics
+
+The Diary of a Young Girl,Anne Frank,classics
+
+The Grapes of Wrath,John Steinbeck,classics
+
+The Little Prince,Antoine de Saint-Exupéry,classics
+
+Gone with the Wind,Margaret Mitchell,classics
+
+Anne of Green Gables,L.M. Montgomery,classics
+
+Mansfield Park,Jane Austen,classics
+
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,classics
+
+Slaughterhouse-Five,Kurt Vonnegut Jr.,classics
+
+A Midsummer Night's Dream,William Shakespeare,classics
+
+Lolita,Vladimir Nabokov,classics
+
+"Moby-Dick or, the Whale",Herman Melville,classics
+
+Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,classics
+
+The Iliad,Homer,classics
+
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,fantasy
+
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,fantasy
+
+Harry Potter and the Chamber of Secrets,J.K. Rowling,fantasy
+
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,fantasy
+
+Harry Potter and the Goblet of Fire,J.K. Rowling,fantasy
+
+Harry Potter and the Deathly Hallows,J.K. Rowling,fantasy
+
+Harry Potter and the Order of the Phoenix,J.K. Rowling,fantasy
+
+Harry Potter and the Half-Blood Prince,J.K. Rowling,fantasy
+
+A Game of Thrones,George R.R. Martin,fantasy
+
+The Fellowship of the Ring,J.R.R. Tolkien,fantasy
+
+A Clash of Kings,George R.R. Martin,fantasy
+
+The Two Towers,J.R.R. Tolkien,fantasy
+
+The Name of the Wind,Patrick Rothfuss,fantasy
+
+The Return of the King,J.R.R. Tolkien,fantasy
+
+A Storm of Swords,George R.R. Martin,fantasy
+
+A Feast for Crows,George R.R. Martin,fantasy
+
+"The Lion, the Witch and the Wardrobe",C.S. Lewis,fantasy
+
+The Golden Compass,Philip Pullman,fantasy
+
+Eragon,Christopher Paolini,fantasy
+
+A Dance with Dragons,George R.R. Martin,fantasy
+
+The Final Empire,Brandon Sanderson,fantasy
+
+American Gods,Neil Gaiman,fantasy
+
+The Lightning Thief,Rick Riordan,fantasy
+
+City of Bones,Cassandra Clare,fantasy
+
+Twilight,Stephenie Meyer,fantasy
+
+Stardust,Neil Gaiman,fantasy
+
+The Eye of the World,Robert Jordan,fantasy
+
+Neverwhere,Neil Gaiman,fantasy
+
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,fantasy
+
+Throne of Glass,Sarah J. Maas,fantasy
+
+The Wise Man's Fear,Patrick Rothfuss,fantasy
+
+The Night Circus,Erin Morgenstern,fantasy
+
+The Lord of the Rings,J.R.R. Tolkien,fantasy
+
+The Ocean at the End of the Lane,Neil Gaiman,fantasy
+
+Graceling,Kristin Cashore,fantasy
+
+Six of Crows,Leigh Bardugo,fantasy
+
+The Princess Bride,William Goldman,fantasy
+
+The Color of Magic,Terry Pratchett,fantasy
+
+Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,fantasy
+
+The Lies of Locke Lamora,Scott Lynch,fantasy
+
+The Subtle Knife,Philip Pullman,fantasy
+
+A Darker Shade of Magic,V.E. Schwab,fantasy
+
+Assassin's Apprentice,Robin Hobb,fantasy
+
+The Way of Kings,Brandon Sanderson,fantasy
+
+Shadow and Bone,Leigh Bardugo,fantasy
+
+A Court of Thorns and Roses,Sarah J. Maas,fantasy
+
+The Well of Ascension,Brandon Sanderson,fantasy
+
+The Sea of Monsters,Rick Riordan,fantasy
+
+The Silmarillion,J.R.R. Tolkien,fantasy
+
+Uprooted,Naomi Novik,fantasy
+
+The Shining,Stephen King,horror
+
+It,Stephen King,horror
+
+Dracula,Bram Stoker,horror
+
+Carrie,Stephen King,horror
+
+Pet Sematary,Stephen King,horror
+
+Frankenstein,Mary Wollstonecraft Shelley,horror
+
+'Salem's Lot,Stephen King,horror
+
+The Stand,Stephen King,horror
+
+Misery,Stephen King,horror
+
+The Haunting of Hill House,Shirley Jackson,horror
+
+World War Z: An Oral History of the Zombie War,Max Brooks,horror
+
+Interview with the Vampire,Anne Rice,horror
+
+Doctor Sleep,Stephen King,horror
+
+Cujo,Stephen King,horror
+
+NOS4A2,Joe Hill,horror
+
+House of Leaves,Mark Z. Danielewski,horror
+
+Heart-Shaped Box,Joe Hill,horror
+
+Bird Box,Josh Malerman,horror
+
+Christine,Stephen King,horror
+
+Needful Things,Stephen King,horror
+
+The Exorcist,William Peter Blatty,horror
+
+We Have Always Lived in the Castle,Shirley Jackson,horror
+
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,horror
+
+Let the Right One In,John Ajvide Lindqvist,horror
+
+Night Shift,Stephen King,horror
+
+Cell,Stephen King,horror
+
+Horns,Joe Hill,horror
+
+Coraline,Neil Gaiman,horror
+
+The Dead Zone,Stephen King,horror
+
+Firestarter,Stephen King,horror
+
+The Girl With All the Gifts,M.R. Carey,horror
+
+Bag of Bones,Stephen King,horror
+
+The Silence of the Lambs,Thomas  Harris,horror
+
+Rosemary's Baby,Ira Levin,horror
+
+The Tommyknockers,Stephen King,horror
+
+Thinner,Richard Bachman,horror
+
+Under the Dome,Stephen King,horror
+
+The Gunslinger,Stephen King,horror
+
+The Dark Half,Stephen King,horror
+
+The Passage,Justin Cronin,horror
+
+Skeleton Crew,Stephen King,horror
+
+Desperation,Stephen King,horror
+
+Dreamcatcher,Stephen King,horror
+
+Insomnia,Stephen King,horror
+
+The Outsider,Stephen King,horror
+
+Something Wicked This Way Comes,Ray Bradbury,horror
+
+The Vampire Lestat,Anne Rice,horror
+
+Gerald's Game,Stephen King,horror
+
+The Strain,Guillermo del Toro,horror
+
+The Picture of Dorian Gray,Oscar Wilde,horror
+
+Pride and Prejudice,Jane Austen,romance
+
+Twilight,Stephenie Meyer,romance
+
+The Fault in Our Stars,John Green,romance
+
+Fifty Shades of Grey,E.L. James,romance
+
+New Moon,Stephenie Meyer,romance
+
+Outlander,Diana Gabaldon,romance
+
+Eclipse,Stephenie Meyer,romance
+
+Breaking Dawn,Stephenie Meyer,romance
+
+Me Before You,Jojo Moyes,romance
+
+The Notebook,Nicholas Sparks,romance
+
+Eleanor & Park,Rainbow Rowell,romance
+
+Jane Eyre,Charlotte Brontë,romance
+
+Fifty Shades Darker,E.L. James,romance
+
+The Selection,Kiera Cass,romance
+
+Fifty Shades Freed,E.L. James,romance
+
+Beautiful Disaster,Jamie McGuire,romance
+
+The Kiss Quotient,Helen Hoang,romance
+
+The Time Traveler's Wife,Audrey Niffenegger,romance
+
+Anna and the French Kiss,Stephanie Perkins,romance
+
+Fangirl,Rainbow Rowell,romance
+
+Romeo and Juliet,William Shakespeare,romance
+
+A Walk to Remember,Nicholas Sparks,romance
+
+To All the Boys I've Loved Before,Jenny Han,romance
+
+Wuthering Heights,Emily Brontë,romance
+
+The Hating Game,Sally  Thorne,romance
+
+Sense and Sensibility,Jane Austen,romance
+
+A Court of Thorns and Roses,Sarah J. Maas,romance
+
+"Red, White & Royal Blue",Casey McQuiston,romance
+
+The Elite,Kiera Cass,romance
+
+Emma,Jane Austen,romance
+
+Bared to You,Sylvia Day,romance
+
+Divergent,Veronica Roth,romance
+
+City of Bones,Cassandra Clare,romance
+
+Persuasion,Jane Austen,romance
+
+Dark Lover,J.R. Ward,romance
+
+The Hunger Games,Suzanne Collins,romance
+
+The One,Kiera Cass,romance
+
+The Night Circus,Erin Morgenstern,romance
+
+Wallbanger,Alice Clayton,romance
+
+Easy,Tammara Webber,romance
+
+If I Stay,Gayle Forman,romance
+
+Dear John,Nicholas Sparks,romance
+
+Dragonfly in Amber,Diana Gabaldon,romance
+
+The Rosie Project,Graeme Simsion,romance
+
+Hopeless,Colleen Hoover,romance
+
+Matched,Ally Condie,romance
+
+A Court of Mist and Fury,Sarah J. Maas,romance
+
+Perfect Chemistry,Simone Elkeles,romance
+
+Simon vs. the Homo Sapiens Agenda,Becky Albertalli,romance
+
+The Princess Bride,William Goldman,romance
+
+To Kill a Mockingbird,Harper Lee,fiction
+
+1984,George Orwell,fiction
+
+The Great Gatsby,F. Scott Fitzgerald,fiction
+
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,fiction
+
+Animal Farm,George Orwell,fiction
+
+The Catcher in the Rye,J.D. Salinger,fiction
+
+The Hunger Games,Suzanne Collins,fiction
+
+The Da Vinci Code,Dan Brown,fiction
+
+The Handmaid's Tale,Margaret Atwood,fiction
+
+The Kite Runner,Khaled Hosseini,fiction
+
+Lord of the Flies,William Golding,fiction
+
+Harry Potter and the Chamber of Secrets,J.K. Rowling,fiction
+
+Pride and Prejudice,Jane Austen,fiction
+
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,fiction
+
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,fiction
+
+The Alchemist,Paulo Coelho,fiction
+
+Harry Potter and the Goblet of Fire,J.K. Rowling,fiction
+
+Fahrenheit 451,Ray Bradbury,fiction
+
+Harry Potter and the Deathly Hallows,J.K. Rowling,fiction
+
+Catching Fire,Suzanne Collins,fiction
+
+Harry Potter and the Half-Blood Prince,J.K. Rowling,fiction
+
+Harry Potter and the Order of the Phoenix,J.K. Rowling,fiction
+
+Life of Pi,Yann Martel,fiction
+
+The Girl with the Dragon Tattoo,Stieg Larsson,fiction
+
+Brave New World,Aldous Huxley,fiction
+
+The Book Thief,Markus Zusak,fiction
+
+Of Mice and Men,John Steinbeck,fiction
+
+Mockingjay,Suzanne Collins,fiction
+
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,fiction
+
+The Help,Kathryn Stockett,fiction
+
+Slaughterhouse-Five,Kurt Vonnegut Jr.,fiction
+
+Gone Girl,Gillian Flynn,fiction
+
+Angels & Demons,Dan Brown,fiction
+
+Jane Eyre,Charlotte Brontë,fiction
+
+The Fault in Our Stars,John Green,fiction
+
+A Game of Thrones,George R.R. Martin,fiction
+
+The Lovely Bones,Alice Sebold,fiction
+
+The Time Traveler's Wife,Audrey Niffenegger,fiction
+
+The Road,Cormac McCarthy,fiction
+
+Memoirs of a Geisha,Arthur Golden,fiction
+
+The Girl on the Train,Paula Hawkins,fiction
+
+Water for Elephants,Sara Gruen,fiction
+
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,fiction
+
+Catch-22,Joseph Heller,fiction
+
+One Hundred Years of Solitude,Gabriel García Márquez,fiction
+
+Frankenstein,Mary Wollstonecraft Shelley,fiction
+
+All the Light We Cannot See,Anthony Doerr,fiction
+
+The Fellowship of the Ring,J.R.R. Tolkien,fiction
+
+The Picture of Dorian Gray,Oscar Wilde,fiction
+
+The Adventures of Huckleberry Finn,Mark Twain,fiction
+
+And Then There Were None,Agatha Christie,mystery
+
+The Girl with the Dragon Tattoo,Stieg Larsson,mystery
+
+Gone Girl,Gillian Flynn,mystery
+
+Murder on the Orient Express,Agatha Christie,mystery
+
+The Girl on the Train,Paula Hawkins,mystery
+
+The Da Vinci Code,Dan Brown,mystery
+
+The Cuckoo's Calling,Robert Galbraith,mystery
+
+Angels & Demons,Dan Brown,mystery
+
+The Girl Who Played with Fire,Stieg Larsson,mystery
+
+In the Woods,Tana French,mystery
+
+The Mysterious Affair at Styles,Agatha Christie,mystery
+
+The Sweetness at the Bottom of the Pie,Alan Bradley,mystery
+
+A Study in Scarlet,Arthur Conan Doyle,mystery
+
+The Murder of Roger Ackroyd,Agatha Christie,mystery
+
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson,mystery
+
+The Hound of the Baskervilles,Arthur Conan Doyle,mystery
+
+Sharp Objects,Gillian Flynn,mystery
+
+One for the Money,Janet Evanovich,mystery
+
+The Silkworm,Robert Galbraith,mystery
+
+Still Life,Louise Penny,mystery
+
+Dark Places,Gillian Flynn,mystery
+
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,mystery
+
+Death on the Nile,Agatha Christie,mystery
+
+Murder at the Vicarage,Agatha Christie,mystery
+
+The Lost Symbol,Dan Brown,mystery
+
+The No. 1 Ladies' Detective Agency,Alexander McCall Smith,mystery
+
+Rebecca,Daphne du Maurier,mystery
+
+The A.B.C. Murders,Agatha Christie,mystery
+
+The Westing Game,Ellen Raskin,mystery
+
+The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,mystery
+
+The Shadow of the Wind,Carlos Ruiz Zafón,mystery
+
+Career of Evil,Robert Galbraith,mystery
+
+The Beekeeper's Apprentice,Laurie R. King,mystery
+
+The Woman in Cabin 10,Ruth Ware,mystery
+
+One of Us Is Lying,Karen M. McManus,mystery
+
+Maisie Dobbs,Jacqueline Winspear,mystery
+
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,mystery
+
+A is for Alibi,Sue Grafton,mystery
+
+The Thirteenth Tale,Diane Setterfield,mystery
+
+Crocodile on the Sandbank,Elizabeth Peters,mystery
+
+The Sign of Four,Arthur Conan Doyle,mystery
+
+The Lovely Bones,Alice Sebold,mystery
+
+Two for the Dough,Janet Evanovich,mystery
+
+Inferno,Dan Brown,mystery
+
+The Likeness,Tana French,mystery
+
+The Woman in the Window,A.J. Finn,mystery
+
+The Complete Sherlock Holmes,Arthur Conan Doyle,mystery
+
+The Body in the Library,Agatha Christie,mystery
+
+We Were Liars,E. Lockhart,mystery
+
+Big Little Lies,Liane Moriarty,mystery
+
+The Diary of a Young Girl,Anne Frank,nonfiction
+
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,nonfiction
+
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,nonfiction
+
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,nonfiction
+
+Night,Elie Wiesel,nonfiction
+
+Educated,Tara Westover,nonfiction
+
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,nonfiction
+
+Bossypants,Tina Fey,nonfiction
+
+Between the World and Me,Ta-Nehisi Coates,nonfiction
+
+Outliers: The Story of Success,Malcolm Gladwell,nonfiction
+
+Stiff: The Curious Lives of Human Cadavers,Mary Roach,nonfiction
+
+Into the Wild,Jon Krakauer,nonfiction
+
+In Cold Blood,Truman Capote,nonfiction
+
+The Glass Castle,Jeannette Walls,nonfiction
+
+Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,nonfiction
+
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,nonfiction
+
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,nonfiction
+
+Becoming,Michelle Obama,nonfiction
+
+The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,nonfiction
+
+"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,nonfiction
+
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,nonfiction
+
+Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,nonfiction
+
+Yes Please,Amy Poehler,nonfiction
+
+We Should All Be Feminists,Chimamanda Ngozi Adichie,nonfiction
+
+On Writing: A Memoir of the Craft,Stephen King,nonfiction
+
+I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer,Michelle McNamara,nonfiction
+
+Born a Crime: Stories From a South African Childhood,Trevor Noah,nonfiction
+
+A Short History of Nearly Everything,Bill Bryson,nonfiction
+
+Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,nonfiction
+
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,nonfiction
+
+Is Everyone Hanging Out Without Me?,Mindy Kaling,nonfiction
+
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,nonfiction
+
+When Breath Becomes Air,Paul Kalanithi,nonfiction
+
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,nonfiction
+
+I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai,nonfiction
+
+Bad Feminist,Roxane Gay,nonfiction
+
+"Eat, Pray, Love",Elizabeth Gilbert,nonfiction
+
+Nickel and Dimed: On  Getting by in America,Barbara Ehrenreich,nonfiction
+
+Modern Romance,Aziz Ansari,nonfiction
+
+Me Talk Pretty One Day,David Sedaris,nonfiction
+
+Man's Search for Meaning,Viktor E. Frankl,nonfiction
+
+The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,nonfiction
+
+Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,nonfiction
+
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,nonfiction
+
+A Brief History of Time,Stephen Hawking,nonfiction
+
+The Library Book,Susan Orlean,nonfiction
+
+Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,nonfiction
+
+Astrophysics for People in a Hurry,Neil deGrasse Tyson,nonfiction
+
+"Thinking, Fast and Slow",Daniel Kahneman,nonfiction
+
+What If? Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,nonfiction
+
+Ender's Game,Orson Scott Card,sciencefiction
+
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,sciencefiction
+
+Dune,Frank Herbert,sciencefiction
+
+The Martian,Andy Weir,sciencefiction
+
+The Hunger Games,Suzanne Collins,sciencefiction
+
+Catching Fire,Suzanne Collins,sciencefiction
+
+Fahrenheit 451,Ray Bradbury,sciencefiction
+
+Foundation,Isaac Asimov,sciencefiction
+
+Speaker for the Dead,Orson Scott Card,sciencefiction
+
+Ready Player One,Ernest Cline,sciencefiction
+
+Do Androids Dream of Electric Sheep?,Philip K. Dick,sciencefiction
+
+Mockingjay,Suzanne Collins,sciencefiction
+
+Neuromancer,William Gibson,sciencefiction
+
+Stranger in a Strange Land,Robert A. Heinlein,sciencefiction
+
+Snow Crash,Neal Stephenson,sciencefiction
+
+1984,George Orwell,sciencefiction
+
+Brave New World,Aldous Huxley,sciencefiction
+
+"I, Robot",Isaac Asimov,sciencefiction
+
+Xenocide,Orson Scott Card,sciencefiction
+
+The Left Hand of Darkness,Ursula K. Le Guin,sciencefiction
+
+2001: A Space Odyssey,Arthur C. Clarke,sciencefiction
+
+The Restaurant at the End of the Universe,Douglas Adams,sciencefiction
+
+Ender's Shadow,Orson Scott Card,sciencefiction
+
+Jurassic Park,Michael Crichton,sciencefiction
+
+A Wrinkle in Time,Madeleine L'Engle,sciencefiction
+
+The Handmaid's Tale,Margaret Atwood,sciencefiction
+
+The Moon is a Harsh Mistress,Robert A. Heinlein,sciencefiction
+
+The Martian Chronicles,Ray Bradbury,sciencefiction
+
+"Life, the Universe and Everything",Douglas Adams,sciencefiction
+
+Old Man's War,John Scalzi,sciencefiction
+
+The Giver,Lois Lowry,sciencefiction
+
+Foundation and Empire,Isaac Asimov,sciencefiction
+
+Ancillary Justice,Ann Leckie,sciencefiction
+
+Divergent,Veronica Roth,sciencefiction
+
+Hyperion,Dan Simmons,sciencefiction
+
+Children of the Mind,Orson Scott Card,sciencefiction
+
+The Time Machine,H.G. Wells,sciencefiction
+
+"The Diamond Age: Or, A Young Lady's Illustrated Primer",Neal Stephenson,sciencefiction
+
+Second Foundation,Isaac Asimov,sciencefiction
+
+The Host,Stephenie Meyer,sciencefiction
+
+Shadow of the Hegemon,Orson Scott Card,sciencefiction
+
+Oryx and Crake,Margaret Atwood,sciencefiction
+
+The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,sciencefiction
+
+Altered Carbon,Richard K. Morgan,sciencefiction
+
+Shadow Puppets,Orson Scott Card,sciencefiction
+
+"So Long, and Thanks for All the Fish",Douglas Adams,sciencefiction
+
+Never Let Me Go,Kazuo Ishiguro,sciencefiction
+
+The Forever War,Joe Haldeman,sciencefiction
+
+The Maze Runner,James Dashner,sciencefiction
+
+Leviathan Wakes,James S.A. Corey,sciencefiction
+
